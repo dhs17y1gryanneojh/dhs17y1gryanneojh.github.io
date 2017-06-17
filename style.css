@@ -1,6 +1,8 @@
 body {
 background-color:Aquamarine;
-font-family:Garamond;
 font-size:30px;
 }
-
+p {
+font-family:Garamond;
+font-size:20px;
+}
