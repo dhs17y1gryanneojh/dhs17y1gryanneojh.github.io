@@ -1,7 +1,18 @@
 body {
 background-color:Aquamarine;
-font-size:30px; 
+font-size:30px;
 }
+h1 {
+  color: #FFF;
+  font-family: "Playfair Display", serif;
+  font-size: 32px;
+  padding-top: 100px;
+  text-align: left;
+  text-transform: uppercase;
+  width: 60%;
+}
+
+
 p {
 font-family:Garamond;
 font-size:20px;
