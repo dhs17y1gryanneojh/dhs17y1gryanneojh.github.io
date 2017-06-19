@@ -1,6 +1,3 @@
-body {
-background-color:Aquamarine;
-}
 h1 {
   color: #FF0000;
   font-family: "Playfair Display", serif;
@@ -9,6 +6,9 @@ h1 {
   text-align: left;
   text-transform: uppercase;
   width: 60%;
+}
+body {
+background-color:Aquamarine;
 }
 p {
   color: #FFA500;
